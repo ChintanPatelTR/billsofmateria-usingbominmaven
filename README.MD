@@ -4,7 +4,7 @@ To use Maven BOM just define BOM into parent.
 All dependancy versions are defined in BOM itself, so you can add dependencies without specifyinh version information.
 Dependencies which are mendatory will be added automatically into your project.
 
-This prjoject use sample maven BOM (https://bitbucket.highq.com/projects/RND/repos/mavenbom/browse)
+This prjoject use sample maven BOM (https://bitbucket.highq.com/projects/RND/repos/billsofmateria-mavenbom/browse)
 
 ### Example:
     Step 1. Project defination
